@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UserHelp">
+
+    <TextView
+        android:layout_width="600dp"
+        android:layout_height="600dp"
+        android:layout_gravity="center"
+        android:text="
+        android开发是指android
+        平台上应用的制作，
+        Android早期由“Android
+        之父”之
+        称的Andy Rubin创办
+        ，Google于2005年并购了成
+        立仅22个月的高科技企业Android，
+        展开了短信、手机检索、定位等业务
+        ，基于Linux的通用平台进入了开发。"
+        android:textSize="30dp"/>
+
+</LinearLayout>
